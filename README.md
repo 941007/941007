@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Koga
-- 👀 I’m interested in SQL, Python, R, Tableau and Data Analysis in general
+- 👀 I’m interested in SQL, Python, R, Tableau, Power BI and Data Analysis in general
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me https://www.linkedin.com/in/dk941007/
 
