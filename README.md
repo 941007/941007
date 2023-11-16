@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diego Koga
+- 👋 Hi, I’m Diego Koga, Junior Data Analyst
 - 👀 I’m interested in SQL, Python, R, Tableau, Power BI and Data Analysis in general
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me https://www.linkedin.com/in/dk941007/
